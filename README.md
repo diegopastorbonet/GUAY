@@ -7,5 +7,6 @@ Google Colabs:
 
 Saluda a graphy!
 
+![descarga](https://github.com/diegopastorbonet/GUAY/assets/127692199/2f4489c6-1022-4e61-9a34-ee872e816032)
 
-![GRAPHY](https://github.com/diegopastorbonet/GUAY/assets/127692199/1ab5e9b6-1ce0-4eaf-8e9b-7827d71e1bd7)
+
